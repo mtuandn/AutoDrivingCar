@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kICU8cr/ADyLRGfjfVS5PJ1SSw47uHciuYRnqJjbIr4O4jpdN43Oy1CybxTqz8jKi/JDqmtiUC2nZwBucegV9A==",
+  "success": true,
+  "projectFilePath": "D:\\ImpoveTechnical\\AutoDrivingCar\\AutoDrivingCar\\AutoDrivingCar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PhuongCN2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
